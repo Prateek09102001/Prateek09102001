@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Prateek09102001/Prateek09102001/assets/127758351/2ea6872a-89fc-49d4-a997-562640c12adc" alt="Profile" width="500" />
+<img src="https://github.com/Prateek09102001/Prateek09102001/assets/127758351/367f83b8-345c-49fe-b0f5-e2865aac0cf8" alt="Profile" width="800" />
 
 # Hi there, I'm Prateek Khandelwal! 👋
 
