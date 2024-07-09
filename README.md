@@ -17,7 +17,7 @@ I'm a Full Stack Developer specializing in MERN stack and Flutter development.
 
 - **Languages**: Java, JavaScript, HTML, CSS, Dart, C, SQL
 - **Frameworks/Libraries**: React, Node.js, Express, Flutter
-- **Tools**: Git, Github
+- **Tools**: Git, Github, Firebase
 - **Databases**: MySQL, MongoDB
 
 ## 📈 GitHub Stats
