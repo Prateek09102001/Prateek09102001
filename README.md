@@ -1,6 +1,3 @@
-
-<img src="https://github.com/Prateek09102001/Prateek09102001/assets/127758351/367f83b8-345c-49fe-b0f5-e2865aac0cf8" alt="Profile" width="800" />
-
 # Hi there, I'm Prateek Khandelwal! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=username&color=brightgreen)
