@@ -38,7 +38,8 @@ I'm a Full Stack Developer specializing in MERN stack and Flutter development.
 
 ## 🌟 Projects
 
-- [SeasonManiya](https://github.com/prateek09102001/seasonmaniya): A tourism website showcasing top places to visit in India for both Indian and international tourists. It also provides recommendations on the best time to visit each place based on seasons.
+- [Season-Maaniya](https://github.com/Prateek09102001/Season-Maaniya): A tourism website showcasing top places to visit in India for both Indian and international tourists. It also provides recommendations on the best time to visit each place based on seasons.
+  visit the website [Season-Maaniya](https://season-maaniay.netlify.app/)
 - [AI Assistance App](https://github.com/prateek09102001/ai-assistance-app): A Flutter-based mobile application integrating AI voice assistance via the API. Users can interact with the app using voice commands to search for information, displaying relevant color images and text descriptions.
 
 ## 👩‍🏫 Profile
